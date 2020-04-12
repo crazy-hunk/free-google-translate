@@ -1,0 +1,22 @@
+{
+    "name": "crazyhunk/google-translate",
+    "description": "Google Translate Free library for PHP",
+    "type": "package",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Crazy Hunk",
+            "email": "contact.crazyhunk@gmail.com",
+            "homepage": "https://github.com/crazyhunk/google-translate/"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "crazyhunk\\GoogleTranslate\\": "src/"
+        }
+    }
+}
