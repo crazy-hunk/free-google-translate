@@ -13,7 +13,6 @@
             "homepage": "https://github.com/crazyhunk/google-translate/"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "crazyhunk\\GoogleTranslate\\": "src/"
